@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GU5fqy5JtflfE3AIFID+zeEk5pdyUmn10UYD9XHPvZHo3S8SniKNp63ovGcdIO+Y5AJDsuIdnvwVEMarDHRQyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Рома Кравченко\\source\\repos\\ConsoleEShop\\EShopLib\\BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Рома Кравченко\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Рома Кравченко\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

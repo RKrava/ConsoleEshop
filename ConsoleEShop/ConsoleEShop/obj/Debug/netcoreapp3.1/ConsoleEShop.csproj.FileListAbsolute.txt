@@ -1,0 +1,16 @@
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\ConsoleEShop\bin\Debug\netcoreapp3.1\ConsoleEShop.exe
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\ConsoleEShop\bin\Debug\netcoreapp3.1\ConsoleEShop.deps.json
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\ConsoleEShop\bin\Debug\netcoreapp3.1\ConsoleEShop.runtimeconfig.json
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\ConsoleEShop\bin\Debug\netcoreapp3.1\ConsoleEShop.runtimeconfig.dev.json
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\ConsoleEShop\bin\Debug\netcoreapp3.1\ConsoleEShop.dll
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\ConsoleEShop\bin\Debug\netcoreapp3.1\ConsoleEShop.pdb
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\ConsoleEShop\bin\Debug\netcoreapp3.1\EShopLib.dll
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\ConsoleEShop\bin\Debug\netcoreapp3.1\EShopLib.pdb
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\ConsoleEShop\obj\Debug\netcoreapp3.1\ConsoleEShop.csprojAssemblyReference.cache
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\ConsoleEShop\obj\Debug\netcoreapp3.1\ConsoleEShop.AssemblyInfoInputs.cache
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\ConsoleEShop\obj\Debug\netcoreapp3.1\ConsoleEShop.AssemblyInfo.cs
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\ConsoleEShop\obj\Debug\netcoreapp3.1\ConsoleEShop.csproj.CoreCompileInputs.cache
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\ConsoleEShop\obj\Debug\netcoreapp3.1\ConsoleEShop.csproj.CopyComplete
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\ConsoleEShop\obj\Debug\netcoreapp3.1\ConsoleEShop.dll
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\ConsoleEShop\obj\Debug\netcoreapp3.1\ConsoleEShop.pdb
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\ConsoleEShop\obj\Debug\netcoreapp3.1\ConsoleEShop.genruntimeconfig.cache

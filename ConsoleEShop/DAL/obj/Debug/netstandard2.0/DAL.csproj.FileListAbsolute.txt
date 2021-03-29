@@ -1,0 +1,9 @@
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\DAL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\DAL\obj\Debug\netstandard2.0\DAL.dll
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\DAL\obj\Debug\netstandard2.0\DAL.pdb

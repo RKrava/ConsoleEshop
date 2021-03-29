@@ -1,0 +1,9 @@
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\EShopLib\bin\Debug\netstandard2.0\EShopLib.deps.json
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\EShopLib\bin\Debug\netstandard2.0\EShopLib.dll
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\EShopLib\bin\Debug\netstandard2.0\EShopLib.pdb
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\EShopLib\obj\Debug\netstandard2.0\EShopLib.csprojAssemblyReference.cache
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\EShopLib\obj\Debug\netstandard2.0\EShopLib.AssemblyInfoInputs.cache
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\EShopLib\obj\Debug\netstandard2.0\EShopLib.AssemblyInfo.cs
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\EShopLib\obj\Debug\netstandard2.0\EShopLib.csproj.CoreCompileInputs.cache
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\EShopLib\obj\Debug\netstandard2.0\EShopLib.dll
+C:\Users\Рома Кравченко\source\repos\ConsoleEShop\EShopLib\obj\Debug\netstandard2.0\EShopLib.pdb
